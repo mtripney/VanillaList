@@ -683,6 +683,14 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+.opacity-40 {
+  opacity: 0.4;
+}
+
+.opacity-30 {
+  opacity: 0.3;
+}
+
 .shadow-layered {
   --tw-shadow: 0 1px 1px rgba(0,0,0,0.12), 0 2px 2px rgba(0,0,0,0.12), 0 4px 4px rgba(0,0,0,0.12), 0 8px 8px rgba(0,0,0,0.12), 0 16px 16px rgba(0,0,0,0.12);
   --tw-shadow-colored: 0 1px 1px var(--tw-shadow-color), 0 2px 2px var(--tw-shadow-color), 0 4px 4px var(--tw-shadow-color), 0 8px 8px var(--tw-shadow-color), 0 16px 16px var(--tw-shadow-color);
